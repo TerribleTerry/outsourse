@@ -1,0 +1,131 @@
+<resources>
+    <string name="banner_ad_unit_id">ca-app-pub-...</string>
+    <string name="maps_api_key">AIzaSyBHvYczPeFFmjhOo2_UqOqP2xOchTVnI7c</string>
+    <string name="facebook_app_id">812806465491474</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">ce25506dfccbc1b46950c0942b7c0fd4</string>
+
+    <string name="app_name">Kyiv.Nearme</string>
+    <string name="first_page_name">Nearme</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_event">EventActivity</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="SigninFb">Sign in Fb</string>
+    <string name="ak_login_protocol_scheme">812806465491474</string>
+    <string name="error_data_loading">When loading data error has occurred. Check your network connection.</string>
+
+
+    <string name="navigation_sub_item_1">Today</string>
+    <string name="navigation_sub_item_2">This week</string>
+    <string name="navigation_sub_item_3">This month</string>
+
+
+    <string name="msg_loading">Please wait&#8230;</string>
+    <string name="msg_loading_2">Loading. Please wait&#8230;</string>
+    <string name="msg_network_error">Please check your Internet connection</string>
+    <string name="msg_account_blocked">This account is blocked by a moderator.</string>
+    <string name="msg_copied_to_clipboard">Copied to clipboard.</string>
+
+
+    <string name="msg_ticket_send_success">Your request is accepted! You will receive a response to the email, which is indicated in the request.</string>
+    <string name="msg_password_reset_link_sent">A message with link to reset your password has been sent to your email.</string>
+    <string name="msg_no_such_user_in_bd">No such user in database</string>
+    <string name="msg_connect_to_facebook_success">You have successfully linked application with your account on Facebook!</string>
+    <string name="msg_connect_to_facebook_error">Your account on Facebook is already associated with another account.</string>
+    <string name="msg_connect_to_facebook_removed">Connect with your Facebook account removed.</string>
+
+    <string name="error_field_empty">Required fields are empty</string>
+    <string name="error_wrong_format">Wrong format</string>
+    <string name="error_small_password">Minimum 6 characters</string>
+    <string name="error_small_username">Minimum 5 characters</string>
+    <string name="error_small_fullname">Minimum 2 characters</string>
+    <string name="error_login_taken">Username is already taken</string>
+    <string name="error_email_taken">User with this mail is already registered</string>
+    <string name="error_password">Invalid password.</string>
+    <string name="error_email">Email invalid.</string>
+
+
+    <string name="search">Search</string>
+    <string name="menu">Menu</string>
+    <string name="login">Register/Login</string>
+    <string name="action_item2">Item2</string>
+    <string name="action_item3">Item3</string>
+    <string name="search_hint">Search events…</string>
+    <string name="share">Share</string>
+    <string name="join_on_fb">Join on Facebook</string>
+    <string name="Messages_on_map">Чат на картіk</string>
+
+
+    <string name="hosted_by">Hosted by </string>
+    <string name="no_events">\u002B %1$d more events</string>
+    <string name="people_attending">%1$d people going</string>
+    <string name="sharing_url">Sharing URL</string>
+    <string name="share_url">Share URL</string>
+
+    <string name="snackbar_connection_failed">Connection to server failed</string>
+    <string name="snackbar_connection_failed_action">Network settings</string>
+    <string name="snackbar_permission_location_explanation">Location is required to show nearby events</string>
+    <string name="snackbar_permission_location_explanation_action">Try again</string>
+
+    <string name="cover_photo">Cover photo</string>
+    <string name="reminder">Reminder</string>
+    <string name="map">Map</string>
+    <string name="title_activity_geomessage">Geomessage</string>
+    <string name="message">type text here</string>
+    <string name="send">Send message</string>
+
+    <string name="fb_login_protocol_scheme">fb812806465491474</string>
+    <string name="placeholder_password">Password</string>
+    <string name="placeholder_login">Username</string>
+    <string name="placeholder_fullname">Fullname</string>
+    <string name="placeholder_location">Location</string>
+    <string name="placeholder_facebook_page">Facebook page</string>
+    <string name="placeholder_instagram_page">Instagram page</string>
+    <string name="placeholder_bio">Bio</string>
+    <string name="placeholder_email">Email</string>
+    <string name="placeholder_subject">Тема</string>
+    <string name="placeholder_support_detail">Про що ви хочете розповісти?</string>
+    <string name="placeholder_current_password">Current password</string>
+    <string name="placeholder_new_password">New password</string>
+    <string name="placeholder_item_category">Category</string>
+    <string name="signup_label_1">By clicking Sign up, you agree to our</string>
+    <string name="signup_label_terms_and_policies">Terms and Policies</string>
+
+    <string name="action_login">Log in</string>
+    <string name="action_signup">Sign up</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_continue">Continue</string>
+    <string name="action_forgot_password">Forgot password?</string>
+    <string name="placeholder_comment">write comment here</string>
+    <string name="enter">LogIn</string>
+    <string name="aboutus">About us</string>
+    <string name="connect">Write us</string>
+    <string name="action_send">Send</string>
+    <string name="yourmessage">write your message here</string>
+    <string name="usermail">email</string>
+    <string name="language">language</string>
+    <string name="languageukr">languageukr</string>
+    <string name="languageeng">English</string>
+    <string name="aboutustext">Навколо тебе відбувається так багато подій, які не потрапляють в жодні афіші, що ми почали хвилюватися - а раптом ти не про всі знаєш? Тому і був запущений цей додаток - щоб ми всі частіше перетиналися в реалі.
+      А тепер до суті: ми знаємо як ти переймаєшся своєю конфіденційністю і хочемо запевнити, що коли ти перегляєш події поряд, то інформація про твоє розташування ніде не записується і не зберігається. Ми не відслідковуємо  і не збираємо інформацію про пересування користувачів. Вся інформація отримана в результаті використання додатку  є конфіденційною, не передається і ніколи не буде передаватися третім особам.
+Ми поповнюємо базу подій в "ручному режимі", тому можемо щось пропустити. Якщо це так - пишіть нам і кидайте посилання на подію в фейсбуці.</string>
+    <string name="copy_right">copy_right</string>
+    <string name="register">Зареєструватися</string>
+    <string name="fbloginnew">Login with Facebook</string>
+    <string name="fblogoutnew">Logout from Fb</string>
+    <string name="action_signup_urk">Новий користувач</string>
+    <string name="contactfree">Щоб додати подію – надсилайте посилання на її сторінку в Fb.\n
+    Хочети поскаржитися– пишіть\n
+    Хочете запропонувати ідеї чи співпрацю – пишіть\n
+    Хочетe просто поспілкуватись – пишіть :)</string>
+    <string name="recovery">Нагадати пароль</string>
+    <string name="apply">Поскаржитися</string>
+    <string name="loginlink">Вже маєте аккаунт? Увійти</string>
+    <string name="userprofile">Profile</string>
+    <string name="sendlogin">LogIn</string>
+    <string name="password">Password</string>
+    <string name="or">or</string>
+    <string name="addevent">Add Event</string>
+
+
+</resources>

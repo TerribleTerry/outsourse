@@ -1,0 +1,214 @@
+<resources>
+
+    <style name="AppTheme" parent="AppTheme.Base" />
+    <style name="AppLoginTheme" parent="Theme.AccountKit" />
+
+    <style name="progress_bar_dialog" parent="Theme.AppCompat.Dialog">
+        <item name="colorAccent">#FFFFFF</item>
+        <item name="android:textColorPrimary">#CCCCCC</item>
+        <item name="android:background">#E43F3F</item>
+    </style>
+
+
+    <style name="AppTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:windowBackground">@color/theme_background</item>
+    </style>
+
+    <style name="searchView" parent="Widget.AppCompat.SearchView.ActionBar">
+        <item name="searchHintIcon">@null</item>
+        <item name="searchIcon">@null</item>
+        <item name="iconifiedByDefault">false</item>
+        <item name="android:textColor">@color/black</item>
+
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
+    <style name="toolbarSearchEditText" parent="Widget.AppCompat.EditText">
+        <item name="colorControlNormal">@color/black</item>
+        <item name="colorControlActivated">@android:color/transparent</item>
+        <item name="colorControlHighlight">@android:color/transparent</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textCursorDrawable">@null</item>
+    </style>
+
+    <style name="textH1" parent="android:Widget.TextView">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/text</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="textH2" parent="android:Widget.TextView">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/text</item>
+    </style>
+
+    <style name="textH3" parent="android:Widget.TextView">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/text</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="textH4" parent="android:Widget.TextView">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/text_sub_ico</item>
+    </style>
+
+    <style name="textH5" parent="android:Widget.TextView">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/text_sub_ico</item>
+    </style>
+
+    <style name="textNormal" parent="android:Widget.TextView">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/text</item>
+    </style>
+
+    <style name="textSmall" parent="android:Widget.TextView">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/text</item>
+    </style>
+
+    <style name="textSmallGray" parent="android:Widget.TextView">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/text_sub_ico</item>
+    </style>
+
+    <style name="textBig" parent="android:Widget.TextView">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/snackbar</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.ActionBar" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="searchViewStyle">@style/searchView</item>
+
+    </style>
+    <style name="HeaderBar">
+        <item name="android:background">@color/primary_dark</item>
+    </style>
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"
+    />
+
+
+    <style name="about_About"/>
+    <style name="about_About.wrapper">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_marginTop">?attr/actionBarSize</item>
+
+
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">#ffffff</item>
+    </style>
+    <style name="about_image">
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:gravity">right</item>
+    <item name="android:layout_marginBottom">30dp</item>
+    <item name="android:layout_marginTop">80dp</item>
+    </style>
+
+    <style name="about_description" parent="@android:style/TextAppearance">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">@string/aboutustext</item>
+        <item name="android:lineSpacingExtra">8dp</item>
+        <item name="android:layout_marginBottom">20dp</item>
+        <item name="android:textColor">@color/about_description_color</item>
+        <item name="android:textSize">@dimen/about_description_text_size</item>
+    </style>
+
+
+
+    <style name="FacebookLoginButton">
+        <item name="android:textSize">16sp</item>
+        <item name="android:text">@string/fblogin</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+
+    <style name="FacebookLoginButtonMy">
+        <item name="android:textSize">16sp</item>
+        <item name="android:text">@string/fblogin</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+
+    <string name="fblogin">Зафейсбучся</string>
+
+    <string name="com_facebook_loginview_log_in_button">LOGIN</string>
+    <string name="com_facebook_loginview_log_out_button">LOGOUT</string>
+
+
+
+
+
+    <declare-styleable name="com_facebook_login_view">
+        <attr name="com_facebook_confirm_logout" format="boolean"/>
+        <attr name="com_facebook_login_text" format="string"/>
+        <attr name="com_facebook_logout_text" format="string"/>
+        <attr name="com_facebook_tooltip_mode">
+            <!-- Keep in sync with Enums in LoginButton -->
+            <enum name="automatic" value="0" />
+            <enum name="display_always" value="1" />
+            <enum name="never_display" value="2" />
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="com_facebook_profile_picture_view">
+        <attr name="com_facebook_preset_size">
+            <!-- Keep in sync with constants in ProfilePictureView -->
+            <enum name="small" value="-2" />
+            <enum name="normal" value="-3" />
+            <enum name="large" value="-4" />
+        </attr>
+        <attr name="com_facebook_is_cropped" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="com_facebook_like_view">
+        <attr name="com_facebook_foreground_color" format="color" />
+        <attr name="com_facebook_object_id" format="string" />
+        <attr name="com_facebook_object_type">
+            <!-- Keep in sync with Enums in Likeview -->
+            <enum name="unknown" value="0" />
+            <enum name="open_graph" value="1" />
+            <enum name="page" value="2" />
+        </attr>
+        <attr name="com_facebook_style">
+            <!-- Keep in sync with Enums in LikeView -->
+            <enum name="standard" value="0" />
+            <enum name="button" value="1" />
+            <enum name="box_count" value="2" />
+        </attr>
+        <attr name="com_facebook_auxiliary_view_position">
+            <!-- Keep in sync with Enums in LikeView -->
+            <enum name="bottom" value="0" />
+            <enum name="inline" value="1" />
+            <enum name="top" value="2" />
+        </attr>
+        <attr name="com_facebook_horizontal_alignment">
+            <!-- Keep in sync with Enums in LikeView -->
+            <enum name="center" value="0" />
+            <enum name="left" value="1" />
+            <enum name="right" value="2" />
+        </attr>
+    </declare-styleable>
+
+
+    <style name="info_window_text" parent="@android:style/TextAppearance">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:lineSpacingExtra">8dp</item>
+        <item name="android:textColor">@color/snackbar</item>
+        <item name="android:textSize">@dimen/about_description_text_size</item>
+    </style>
+
+    <style name="TextLabel" parent="TextAppearance.Design.Hint">
+        <item name="android:textSize">12sp</item>
+    </style>
+
+</resources>

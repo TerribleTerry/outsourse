@@ -1,0 +1,622 @@
+[
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\about_icon_twitter.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\6d327bc39fda8a1d4d865a6cf3f4f8d41aa4bd45\\output\\res\\drawable\\about_icon_twitter.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\b04c6f3d86ecb349191f6aff28becc716ce5c312\\output\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\215a49bced37571d178ee3eb0175a2e9cd4cf5ae\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_dialog_close_light.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\ccc08373be856f1f0a5961afcfa64c9e0dbc620c\\output\\res\\drawable\\mr_dialog_close_light.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_auth_dialog_header_background.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\b04c6f3d86ecb349191f6aff28becc716ce5c312\\output\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_expanded_controller_rewind30.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_login_logo.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\b04c6f3d86ecb349191f6aff28becc716ce5c312\\output\\res\\drawable\\com_facebook_button_login_logo.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_media_pause_dark.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\ccc08373be856f1f0a5961afcfa64c9e0dbc620c\\output\\res\\drawable\\mr_media_pause_dark.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\215a49bced37571d178ee3eb0175a2e9cd4cf5ae\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\215a49bced37571d178ee3eb0175a2e9cd4cf5ae\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\about_icon_facebook.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\6d327bc39fda8a1d4d865a6cf3f4f8d41aa4bd45\\output\\res\\drawable\\about_icon_facebook.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_forward30.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_accountkit_progress_complete.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\8d0463199f83f9b2452e5c94716e617e7bdd7240\\output\\res\\drawable\\com_accountkit_progress_complete.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\27b7c00d9db64ac86fb8932f2a206d586a15e7e4\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\ccc08373be856f1f0a5961afcfa64c9e0dbc620c\\output\\res\\drawable\\mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_mini_controller_gradient_light.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_expanded_controller_skip_next.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_mini_controller_skip_prev.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\f4f87aca9829e1e1ea9bbc475a0753484da970cc\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\215a49bced37571d178ee3eb0175a2e9cd4cf5ae\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_auth_dialog_background.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\b04c6f3d86ecb349191f6aff28becc716ce5c312\\output\\res\\drawable\\com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\215a49bced37571d178ee3eb0175a2e9cd4cf5ae\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\about_icon_email.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\6d327bc39fda8a1d4d865a6cf3f4f8d41aa4bd45\\output\\res\\drawable\\about_icon_email.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_skip_next.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_like_background.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\b04c6f3d86ecb349191f6aff28becc716ce5c312\\output\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\27b7c00d9db64ac86fb8932f2a206d586a15e7e4\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_small_icon.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\27b7c00d9db64ac86fb8932f2a206d586a15e7e4\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_button_connected_light.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\ccc08373be856f1f0a5961afcfa64c9e0dbc620c\\output\\res\\drawable\\mr_button_connected_light.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_media_stop_dark.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\ccc08373be856f1f0a5961afcfa64c9e0dbc620c\\output\\res\\drawable\\mr_media_stop_dark.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\215a49bced37571d178ee3eb0175a2e9cd4cf5ae\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_vol_type_audiotrack_dark.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\ccc08373be856f1f0a5961afcfa64c9e0dbc620c\\output\\res\\drawable\\mr_vol_type_audiotrack_dark.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_expanded_controller_mute.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_button_connecting_light.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\ccc08373be856f1f0a5961afcfa64c9e0dbc620c\\output\\res\\drawable\\mr_button_connecting_light.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\215a49bced37571d178ee3eb0175a2e9cd4cf5ae\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\215a49bced37571d178ee3eb0175a2e9cd4cf5ae\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_mini_controller_mute.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\215a49bced37571d178ee3eb0175a2e9cd4cf5ae\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_send_button_icon.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\b04c6f3d86ecb349191f6aff28becc716ce5c312\\output\\res\\drawable\\com_facebook_send_button_icon.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\215a49bced37571d178ee3eb0175a2e9cd4cf5ae\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\f4f87aca9829e1e1ea9bbc475a0753484da970cc\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\215a49bced37571d178ee3eb0175a2e9cd4cf5ae\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\215a49bced37571d178ee3eb0175a2e9cd4cf5ae\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\b04c6f3d86ecb349191f6aff28becc716ce5c312\\output\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\about_icon_google_play.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\6d327bc39fda8a1d4d865a6cf3f4f8d41aa4bd45\\output\\res\\drawable\\about_icon_google_play.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_expanded_controller_forward30.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_play.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_accountkit_progress_ring.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\8d0463199f83f9b2452e5c94716e617e7bdd7240\\output\\res\\drawable\\com_accountkit_progress_ring.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\f4f87aca9829e1e1ea9bbc475a0753484da970cc\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\215a49bced37571d178ee3eb0175a2e9cd4cf5ae\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_mini_controller_closed_caption.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_action_send_now.xml",
+        "source": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\src\\main\\res\\drawable\\ic_action_send_now.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_mini_controller_rewind30.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\27b7c00d9db64ac86fb8932f2a206d586a15e7e4\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\215a49bced37571d178ee3eb0175a2e9cd4cf5ae\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\215a49bced37571d178ee3eb0175a2e9cd4cf5ae\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_mini_controller_play_large.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tab_background_selected.xml",
+        "source": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\src\\main\\res\\drawable\\tab_background_selected.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\215a49bced37571d178ee3eb0175a2e9cd4cf5ae\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_media_play_dark.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\ccc08373be856f1f0a5961afcfa64c9e0dbc620c\\output\\res\\drawable\\mr_media_play_dark.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_button_dark.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\ccc08373be856f1f0a5961afcfa64c9e0dbc620c\\output\\res\\drawable\\mr_button_dark.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_button_connecting_dark.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\ccc08373be856f1f0a5961afcfa64c9e0dbc620c\\output\\res\\drawable\\mr_button_connecting_dark.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_group_expand.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\ccc08373be856f1f0a5961afcfa64c9e0dbc620c\\output\\res\\drawable\\mr_group_expand.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\f4f87aca9829e1e1ea9bbc475a0753484da970cc\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\27b7c00d9db64ac86fb8932f2a206d586a15e7e4\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_accountkit_error_exclamation.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\8d0463199f83f9b2452e5c94716e617e7bdd7240\\output\\res\\drawable\\com_accountkit_error_exclamation.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_accountkit_error.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\8d0463199f83f9b2452e5c94716e617e7bdd7240\\output\\res\\drawable\\com_accountkit_error.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\215a49bced37571d178ee3eb0175a2e9cd4cf5ae\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\215a49bced37571d178ee3eb0175a2e9cd4cf5ae\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_expanded_controller_play.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tab_background_unselected.xml",
+        "source": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\src\\main\\res\\drawable\\tab_background_unselected.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_expanded_controller_stop.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\215a49bced37571d178ee3eb0175a2e9cd4cf5ae\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_expanded_controller_skip_previous.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\215a49bced37571d178ee3eb0175a2e9cd4cf5ae\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_expanded_controller_pause.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_send_background.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\b04c6f3d86ecb349191f6aff28becc716ce5c312\\output\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\215a49bced37571d178ee3eb0175a2e9cd4cf5ae\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_media_play_light.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\ccc08373be856f1f0a5961afcfa64c9e0dbc620c\\output\\res\\drawable\\mr_media_play_light.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_pause.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\215a49bced37571d178ee3eb0175a2e9cd4cf5ae\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\27b7c00d9db64ac86fb8932f2a206d586a15e7e4\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_group_collapse.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\ccc08373be856f1f0a5961afcfa64c9e0dbc620c\\output\\res\\drawable\\mr_group_collapse.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\215a49bced37571d178ee3eb0175a2e9cd4cf5ae\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_accountkit_pencil.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\8d0463199f83f9b2452e5c94716e617e7bdd7240\\output\\res\\drawable\\com_accountkit_pencil.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\215a49bced37571d178ee3eb0175a2e9cd4cf5ae\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\215a49bced37571d178ee3eb0175a2e9cd4cf5ae\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_accountkit_email.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\8d0463199f83f9b2452e5c94716e617e7bdd7240\\output\\res\\drawable\\com_accountkit_email.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\ccc08373be856f1f0a5961afcfa64c9e0dbc620c\\output\\res\\drawable\\mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_skip_ad_label_border.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_mini_controller_pause.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\b04c6f3d86ecb349191f6aff28becc716ce5c312\\output\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\27b7c00d9db64ac86fb8932f2a206d586a15e7e4\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\b04c6f3d86ecb349191f6aff28becc716ce5c312\\output\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_vol_type_audiotrack_light.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\ccc08373be856f1f0a5961afcfa64c9e0dbc620c\\output\\res\\drawable\\mr_vol_type_audiotrack_light.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_mini_controller_skip_next.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\f4f87aca9829e1e1ea9bbc475a0753484da970cc\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_forward.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\215a49bced37571d178ee3eb0175a2e9cd4cf5ae\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\about_icon_youtube.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\6d327bc39fda8a1d4d865a6cf3f4f8d41aa4bd45\\output\\res\\drawable\\about_icon_youtube.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\215a49bced37571d178ee3eb0175a2e9cd4cf5ae\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\215a49bced37571d178ee3eb0175a2e9cd4cf5ae\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\215a49bced37571d178ee3eb0175a2e9cd4cf5ae\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\about_icon_link.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\6d327bc39fda8a1d4d865a6cf3f4f8d41aa4bd45\\output\\res\\drawable\\about_icon_link.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_arrow_back_white.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\8d0463199f83f9b2452e5c94716e617e7bdd7240\\output\\res\\drawable\\ic_arrow_back_white.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\215a49bced37571d178ee3eb0175a2e9cd4cf5ae\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_rewind10.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_disconnect.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\27b7c00d9db64ac86fb8932f2a206d586a15e7e4\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_media_stop_light.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\ccc08373be856f1f0a5961afcfa64c9e0dbc620c\\output\\res\\drawable\\mr_media_stop_light.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_mini_controller_stop_large.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_button_light.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\ccc08373be856f1f0a5961afcfa64c9e0dbc620c\\output\\res\\drawable\\mr_button_light.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_icon.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\b04c6f3d86ecb349191f6aff28becc716ce5c312\\output\\res\\drawable\\com_facebook_button_icon.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_button_connected_dark.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\ccc08373be856f1f0a5961afcfa64c9e0dbc620c\\output\\res\\drawable\\mr_button_connected_dark.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\215a49bced37571d178ee3eb0175a2e9cd4cf5ae\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_auth_dialog_cancel_background.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\b04c6f3d86ecb349191f6aff28becc716ce5c312\\output\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_expanded_controller_seekbar_track.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_expanded_controller_seekbar_track.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_skip_prev.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\photo_circle.xml",
+        "source": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\src\\main\\res\\drawable\\photo_circle.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\b04c6f3d86ecb349191f6aff28becc716ce5c312\\output\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_favicon_blue.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\b04c6f3d86ecb349191f6aff28becc716ce5c312\\output\\res\\drawable\\com_facebook_favicon_blue.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_background.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\b04c6f3d86ecb349191f6aff28becc716ce5c312\\output\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\215a49bced37571d178ee3eb0175a2e9cd4cf5ae\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\customtabhandler.xml",
+        "source": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\src\\main\\res\\drawable\\customtabhandler.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\27b7c00d9db64ac86fb8932f2a206d586a15e7e4\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\27b7c00d9db64ac86fb8932f2a206d586a15e7e4\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_dialog_close_dark.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\ccc08373be856f1f0a5961afcfa64c9e0dbc620c\\output\\res\\drawable\\mr_dialog_close_dark.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\about_icon_instagram.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\6d327bc39fda8a1d4d865a6cf3f4f8d41aa4bd45\\output\\res\\drawable\\about_icon_instagram.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_expanded_controller_seekbar_thumb.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_expanded_controller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_mini_controller_play.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\27b7c00d9db64ac86fb8932f2a206d586a15e7e4\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\27b7c00d9db64ac86fb8932f2a206d586a15e7e4\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\27b7c00d9db64ac86fb8932f2a206d586a15e7e4\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_mini_controller_pause_large.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_login_background.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\b04c6f3d86ecb349191f6aff28becc716ce5c312\\output\\res\\drawable\\com_facebook_button_login_background.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\215a49bced37571d178ee3eb0175a2e9cd4cf5ae\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\215a49bced37571d178ee3eb0175a2e9cd4cf5ae\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\c95f626435c52c972cea992fd7972c2fb5cb07eb\\output\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\215a49bced37571d178ee3eb0175a2e9cd4cf5ae\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_mini_controller_stop.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\215a49bced37571d178ee3eb0175a2e9cd4cf5ae\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\about_icon_github.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\6d327bc39fda8a1d4d865a6cf3f4f8d41aa4bd45\\output\\res\\drawable\\about_icon_github.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_media_pause_light.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\ccc08373be856f1f0a5961afcfa64c9e0dbc620c\\output\\res\\drawable\\mr_media_pause_light.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_stop_live_stream.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\215a49bced37571d178ee3eb0175a2e9cd4cf5ae\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_mini_controller_forward30.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb818cfc8a02fde01e3acb00f23fa9d5ddf5717\\output\\res\\drawable\\cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\27b7c00d9db64ac86fb8932f2a206d586a15e7e4\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\215a49bced37571d178ee3eb0175a2e9cd4cf5ae\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    }
+]

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+
+    <string name="navigation_sub_item_1">Сьогодні</string>
+    <string name="navigation_sub_item_2">На тижні</string>
+    <string name="navigation_sub_item_3">Місяць</string>
+
+
+</resources>

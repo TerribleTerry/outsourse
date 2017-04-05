@@ -1,0 +1,137 @@
+[
+    {
+        "outputFile": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 59,
+                    "endOffset": 110
+                },
+                "from": {
+                    "file": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 60,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 115,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 239
+                },
+                "from": {
+                    "file": "F:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 240
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\App\\12.11.16\\outsourse\\Pact\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 59,
+                    "endOffset": 110
+                },
+                "from": {
+                    "file": "F:\\App\\12.11.16\\outsourse\\Pact\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 60,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 115,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 239
+                },
+                "from": {
+                    "file": "F:\\App\\12.11.16\\outsourse\\Pact\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 240
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\App\\12.11.16\\Edits24.02\\EventsLocator4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 59,
+                    "endOffset": 110
+                },
+                "from": {
+                    "file": "F:\\App\\12.11.16\\Edits24.02\\EventsLocator4\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 60,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 115,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 239
+                },
+                "from": {
+                    "file": "F:\\App\\12.11.16\\Edits24.02\\EventsLocator4\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 240
+                    }
+                }
+            }
+        ]
+    }
+]

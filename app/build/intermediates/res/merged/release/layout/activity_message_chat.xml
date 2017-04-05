@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="com.aleskovacic.eventslocator4.activities.MessageChatActivity">
+
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    </android.support.design.widget.AppBarLayout>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="?attr/actionBarSize"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context="com.aleskovacic.eventslocator4.activities.MessageChatActivity">
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@color/white">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:paddingTop="@dimen/activity_vertical_margin"
+            android:backgroundTint="@color/theme_background"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/fromuser"
+                android:textColor="@color/primary_dark"
+                style="@style/textBig"
+                android:layout_marginBottom="8sp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textofmessage"
+                android:layout_marginLeft="6sp"
+                android:layout_marginRight="6sp"
+                android:layout_marginBottom="8sp"
+                style="@style/info_window_text"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/textSmallGray"
+                android:id="@+id/timeofmessage"
+                android:gravity="right"
+                android:layout_gravity="right"
+                android:layout_marginBottom="8sp"
+
+                />
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/div">
+            </LinearLayout>
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/contentScreen" >
+            <android.support.v4.widget.NestedScrollView
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/contentContainer"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:background="@color/white" >
+                <LinearLayout
+                    android:id="@+id/linLayout"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+                </LinearLayout>
+            </android.support.v4.widget.NestedScrollView>
+
+
+
+
+
+
+
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/commentFormContainer"
+                android:layout_gravity="bottom"
+                android:paddingBottom="@dimen/activity_vertical_margin"
+                android:gravity="bottom">
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/mr_dialog_material_background_light"
+                    android:gravity="bottom">
+                    >
+
+                    <LinearLayout
+                        android:orientation="horizontal"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent">
+                    </LinearLayout>
+
+                    <EditText
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="16dp"
+                        android:id="@+id/commentText"
+                        android:hint="@string/placeholder_comment"
+                        android:background="@android:color/transparent"
+                        android:layout_weight="1"
+                        android:minHeight="50dp"
+                        android:padding="10dp"
+                        android:singleLine="true"
+                        android:maxLength="500"
+                        android:textCursorDrawable="@null"
+                        android:gravity="bottom"/>
+
+
+                    <LinearLayout
+                        android:orientation="horizontal"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:id="@+id/choiceCommentContainer"
+                        android:gravity="bottom">
+
+                        <ImageView
+                            android:layout_width="32dp"
+                            android:layout_height="32dp"
+                            android:id="@+id/sendCommentImg"
+                            android:src="@drawable/ic_send_white_24dp"
+                            android:scaleType="centerCrop"
+                            android:layout_gravity="center"
+                            android:layout_marginRight="6dp"
+                            android:layout_marginLeft="8dp" />
+                    </LinearLayout>
+
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
+</android.support.design.widget.CoordinatorLayout>

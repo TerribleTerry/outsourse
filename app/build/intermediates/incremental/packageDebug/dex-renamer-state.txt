@@ -1,0 +1,7 @@
+#Wed Apr 05 15:50:38 EEST 2017
+base.0=F\:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_351592d6de0660800b9020b84a9177b3d86e185e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0fa1f3c83cd0518e5786b3d797a0aef07c069ced\\classes.dex
+base.1=F\:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0fa1f3c83cd0518e5786b3d797a0aef07c069ced
+file.0=F\:\\App\\12.11.16\\outsourse\\EventsLocator4\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_351592d6de0660800b9020b84a9177b3d86e185e\\classes.dex
